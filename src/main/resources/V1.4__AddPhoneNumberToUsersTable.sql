@@ -1,0 +1,1 @@
+ALTER TABLE Users ADD Primary_Phone VARCHAR(10);
